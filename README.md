@@ -2,7 +2,7 @@
 - 👀 I’m interested in rfid technology, 
 - 🌱 I’m currently learning about how criminals learn to do fraud
 - 💞️ I’m looking to collaborate on my thesis paper for intro to ethical hacking
-- 📫 How to reach me ...
+- 📫 How to reach me living.latex@icloud.com
 
 <!---
 Livinglatex/Livinglatex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
